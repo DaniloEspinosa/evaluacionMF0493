@@ -1,0 +1,2 @@
+node_modules
+# .*  ----- Esta vez no omitiremos estos archivos asi son cargados tambien en el github -----
